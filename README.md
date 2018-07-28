@@ -1,7 +1,8 @@
 # crawler_code
 Crawl unlabeded text from news sites.  <BR/>
 
-zw:人民日报1946-2003  <BR/>  <BR/>
+zw:  <BR/>
+人民日报1946-2003  <BR/>  <BR/>
 mgw：  <BR/>
 1.搜集主流蒙古文新闻网站；查看获取以新闻文本为内容的栏目地址。  <BR/>
 2.分析不同网站栏目下，新闻页url的参数来源，有静态的、post传参和json传参；根据这些差异和网站结构，编写代码，获取url地址库集合。  <BR/>
